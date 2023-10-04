@@ -20,6 +20,13 @@ Proyecto marketplace, en el se creara:
 - `npm install`
 - `npm start`
 
+## INICIAR EL FRONTEND MOCK
+
+- `cd front`
+- `npm install`
+- `npm start`
+
+
 **Nota:**  Con esta api tienes un crud para cualquier dato que necesites, además de un servicio de login y sign up
 
 ## Entidades
